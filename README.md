@@ -1,5 +1,3 @@
-Code Book
-================
 
 INTRODUCTION
 ------------
@@ -8,8 +6,6 @@ This code book is used for
 
 -   outlining the analyses to clean up the data
 -   interpreting the variables in the tidyData.txt document
-
-The present version is modified from the original code book provided by Coursera Data Science Specialization Peer-graded Assignment: Getting and Cleaning Data Course Project that can be downloaded from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 ANALYSIS PIPELINE
 -----------------
